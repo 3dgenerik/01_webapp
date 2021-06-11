@@ -1,3 +1,6 @@
+
+
+
 var leftColor = document.querySelector("#leftColor");
 var rightColor = document.querySelector("#rightColor");
 var body = document.getElementsByTagName("body")[0];

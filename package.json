@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/3dgenerik/01_webapp/issues"
   },
-  "homepage": "https://github.com/3dgenerik/01_webapp#readme"
+  "homepage": "https://github.com/3dgenerik/01_webapp#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
